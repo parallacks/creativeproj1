@@ -1,0 +1,36 @@
+body{
+  background-color: #454545;
+  color: #fff;
+}
+.title{
+  text-align:center;
+  color: #ff0c0c;
+}
+
+.label{
+  color:#ff0c0c;
+}
+.columns{
+  background-color: #454545;
+  color:#fff;
+}
+.column{
+  margin-right: 50px;
+}
+.footer{
+  background-color: #454545;
+  color:#fff;
+  text-align: center;
+}
+.fa-facebook-square{
+  font-size: 48px;
+}
+.fa-twitter-square{
+  font-size: 48px;
+}
+.fa-instagram{
+  font-size: 48px;
+}
+.fa-snapchat-square{
+  font-size: 48px;
+}
